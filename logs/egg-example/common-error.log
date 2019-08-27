@@ -1,0 +1,589 @@
+2019-08-26 20:57:20,383 ERROR 5920 [-/127.0.0.1/-/6ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\egg-socket-io\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (F:\egg-socket-io\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 5920
+hostname: DESKTOP-8OD7MNT
+
+2019-08-26 21:02:30,435 ERROR 25412 [-/127.0.0.1/-/8ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\egg-socket-io\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (F:\egg-socket-io\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 25412
+hostname: DESKTOP-8OD7MNT
+
+2019-08-26 21:02:31,976 ERROR 25412 [-/127.0.0.1/-/2ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\egg-socket-io\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (F:\egg-socket-io\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 25412
+hostname: DESKTOP-8OD7MNT
+
+2019-08-26 21:02:57,658 ERROR 24844 [-/127.0.0.1/-/6ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\egg-socket-io\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (F:\egg-socket-io\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 24844
+hostname: DESKTOP-8OD7MNT
+
+2019-08-26 21:02:58,472 ERROR 24844 [-/127.0.0.1/-/4ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\egg-socket-io\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (F:\egg-socket-io\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 24844
+hostname: DESKTOP-8OD7MNT
+
+2019-08-26 21:02:58,886 ERROR 24844 [-/127.0.0.1/-/4ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\egg-socket-io\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (F:\egg-socket-io\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 24844
+hostname: DESKTOP-8OD7MNT
+
+2019-08-26 21:04:15,876 ERROR 19128 [-/127.0.0.1/-/8ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\egg-socket-io\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (F:\egg-socket-io\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 19128
+hostname: DESKTOP-8OD7MNT
+
+2019-08-26 21:04:16,484 ERROR 19128 [-/127.0.0.1/-/4ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\egg-socket-io\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (F:\egg-socket-io\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 19128
+hostname: DESKTOP-8OD7MNT
+
+2019-08-26 21:04:16,789 ERROR 19128 [-/127.0.0.1/-/3ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\egg-socket-io\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (F:\egg-socket-io\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 19128
+hostname: DESKTOP-8OD7MNT
+
+2019-08-26 21:26:00,518 ERROR 16800 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TCP.onread (net.js:615:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16800
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:03:58,723 ERROR 4732 nodejs.TypeError: [egg-socket.io] controller execute error: Cannot destructure property `app` of 'undefined' or 'null'.
+    at Object.<anonymous> (F:\egg-socket-io\egg-example\app\io\middleware\connection.js:5:45)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitTwo (events.js:126:13)
+    at Socket.emit (events.js:214:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 4732
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:04:29,621 ERROR 15476 nodejs.TypeError: [egg-socket.io] controller execute error: Cannot destructure property `socket` of 'undefined' or 'null'.
+    at Object.<anonymous> (F:\egg-socket-io\egg-example\app\io\middleware\connection.js:5:40)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitTwo (events.js:126:13)
+    at Socket.emit (events.js:214:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 15476
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:35:03,403 ERROR 18196 nodejs.ReferenceError: [egg-socket.io] controller execute error: id is not defined
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:13:36)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 18196
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:35:03,866 ERROR 18196 nodejs.ReferenceError: [egg-socket.io] controller execute error: id is not defined
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:13:36)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 18196
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:36:27,179 ERROR 6064 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:13:19)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 6064
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:37:23,619 ERROR 1892 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:14:19)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 1892
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:37:47,828 ERROR 23328 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:14:19)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 23328
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:39:00,088 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:40:00,770 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:40:00,777 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:40:07,125 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:40:07,129 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:40:35,922 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:40:35,924 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:40:56,905 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:40:56,936 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:41:06,341 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:41:06,344 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:41:07,151 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:41:57,522 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:41:57,528 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:42:02,250 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:42:02,253 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:42:04,909 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:42:04,912 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:42:08,433 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:42:08,435 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:42:09,547 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:42:12,687 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:42:16,750 ERROR 22332 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:12:35)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 22332
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:53:30,849 ERROR 628 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:14:19)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 628
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 18:55:55,813 ERROR 12656 nodejs.TypeError: [egg-socket.io] controller execute error: nsp.adapter.remoteDisconnect is not a function
+    at NspController.index (F:\egg-socket-io\egg-example\app\io\controller\nsp.js:14:19)
+    at Object.callFn (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\egg-socket-io\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Socket.socket.on.args (F:\egg-socket-io\egg-example\node_modules\egg-socket.io\lib\io.js:104:23)
+    at emitThree (events.js:136:13)
+    at Socket.emit (events.js:217:7)
+    at F:\egg-socket-io\egg-example\node_modules\socket.io\lib\socket.js:528:12
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 12656
+hostname: DESKTOP-8OD7MNT
+

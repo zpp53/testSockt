@@ -1,0 +1,329 @@
+2019-08-26 20:57:20,385 ERROR 5920 [-/127.0.0.1/-/6ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\egg-socket-io\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (F:\egg-socket-io\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 5920
+hostname: DESKTOP-8OD7MNT
+
+2019-08-26 21:02:30,437 ERROR 25412 [-/127.0.0.1/-/8ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\egg-socket-io\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (F:\egg-socket-io\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 25412
+hostname: DESKTOP-8OD7MNT
+
+2019-08-26 21:02:31,979 ERROR 25412 [-/127.0.0.1/-/2ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\egg-socket-io\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (F:\egg-socket-io\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 25412
+hostname: DESKTOP-8OD7MNT
+
+2019-08-26 21:02:57,662 ERROR 24844 [-/127.0.0.1/-/6ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\egg-socket-io\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (F:\egg-socket-io\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 24844
+hostname: DESKTOP-8OD7MNT
+
+2019-08-26 21:02:58,474 ERROR 24844 [-/127.0.0.1/-/4ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\egg-socket-io\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (F:\egg-socket-io\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 24844
+hostname: DESKTOP-8OD7MNT
+
+2019-08-26 21:02:58,887 ERROR 24844 [-/127.0.0.1/-/4ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\egg-socket-io\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (F:\egg-socket-io\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 24844
+hostname: DESKTOP-8OD7MNT
+
+2019-08-26 21:04:15,879 ERROR 19128 [-/127.0.0.1/-/8ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\egg-socket-io\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (F:\egg-socket-io\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 19128
+hostname: DESKTOP-8OD7MNT
+
+2019-08-26 21:04:16,486 ERROR 19128 [-/127.0.0.1/-/4ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\egg-socket-io\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (F:\egg-socket-io\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 19128
+hostname: DESKTOP-8OD7MNT
+
+2019-08-26 21:04:16,792 ERROR 19128 [-/127.0.0.1/-/3ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\egg-socket-io\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (F:\egg-socket-io\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 19128
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 15:18:03,678 WARN 18372 [-/127.0.0.1/-/3ms POST /license] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-27 15:18:03,681 WARN 18372 [-/127.0.0.1/-/5ms POST /license] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (F:\egg-socket-io\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:163:19)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (F:\egg-socket-io\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 18372
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 15:18:10,933 WARN 18372 [-/127.0.0.1/-/0ms POST /license] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-27 15:18:10,935 WARN 18372 [-/127.0.0.1/-/1ms POST /license] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (F:\egg-socket-io\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:163:19)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (F:\egg-socket-io\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 18372
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 15:18:15,862 WARN 18372 [-/127.0.0.1/-/0ms POST /license] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-27 15:18:15,864 WARN 18372 [-/127.0.0.1/-/2ms POST /license] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (F:\egg-socket-io\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:163:19)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (F:\egg-socket-io\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 18372
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 16:10:14,013 WARN 18904 [-/127.0.0.1/-/2ms POST /license] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-27 16:10:14,021 WARN 18904 [-/127.0.0.1/-/10ms POST /license] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (F:\egg-socket-io\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:163:19)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (F:\egg-socket-io\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 18904
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 16:10:18,023 WARN 18904 [-/127.0.0.1/-/0ms POST /license] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-27 16:10:18,026 WARN 18904 [-/127.0.0.1/-/3ms POST /license] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (F:\egg-socket-io\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:163:19)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (F:\egg-socket-io\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 18904
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 16:10:22,162 WARN 18904 [-/127.0.0.1/-/1ms POST /license] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-27 16:10:22,163 WARN 18904 [-/127.0.0.1/-/2ms POST /license] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (F:\egg-socket-io\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:163:19)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (F:\egg-socket-io\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 18904
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 16:28:29,905 INFO 13500 [-/127.0.0.1/-/1ms GET /socket.io/?EIO=3&transport=polling&t=MpICCxC] [ 'socketTest' ]
+2019-08-27 16:31:31,355 INFO 22504 [-/127.0.0.1/-/1ms GET /socket.io/?EIO=3&transport=polling&t=MpICnhU] [ 'socketTest' ]
+2019-08-27 16:31:36,887 INFO 22504 [-/127.0.0.1/-/0ms GET /socket.io/?EIO=3&transport=polling&t=MpICwYX] [ 'socketTest' ]
+2019-08-27 16:32:13,435 INFO 10844 [-/127.0.0.1/-/1ms GET /socket.io/?EIO=3&transport=polling&t=MpID3Sw] [ 'socketTest' ]
+2019-08-27 16:32:51,754 INFO 10844 [-/127.0.0.1/-/0ms GET /socket.io/?EIO=3&transport=polling&t=MpID3Sw] [ 'socketTest' ]
+2019-08-27 16:32:58,518 INFO 10844 [-/127.0.0.1/-/1ms GET /socket.io/?EIO=3&transport=polling&t=MpID3Sw] [ 'socketTest' ]
+2019-08-27 16:33:07,157 INFO 10844 [-/127.0.0.1/-/0ms GET /socket.io/?EIO=3&transport=polling&t=MpID3Sw] [ 'socketTest' ]
+2019-08-27 16:33:19,908 INFO 10844 [-/127.0.0.1/-/0ms GET /socket.io/?EIO=3&transport=polling&t=MpID3Sw] [ 'socketTest' ]
+2019-08-27 16:33:23,961 INFO 10844 [-/127.0.0.1/-/0ms GET /socket.io/?EIO=3&transport=polling&t=MpIDKhw] [ 'socketTest' ]
+2019-08-27 16:36:08,792 INFO 1560 [-/127.0.0.1/-/1ms GET /socket.io/?EIO=3&transport=polling&t=MpIDyxI] [ 'socketTest' ]
+2019-08-27 16:36:27,697 INFO 1432 [-/127.0.0.1/-/1ms GET /socket.io/?EIO=3&transport=polling&t=MpIE1YW] [ 'socketTest' ]
+2019-08-27 16:38:38,545 INFO 7860 [-/127.0.0.1/-/2ms GET /socket.io/?EIO=3&transport=polling&t=MpIEXVH] [ 'socketTest' ]
+2019-08-27 16:39:15,396 INFO 896 [-/127.0.0.1/-/2ms GET /socket.io/?EIO=3&transport=polling&t=MpIEgYQ] [ 'socketTest' ]
+2019-08-27 16:39:19,188 INFO 896 [-/127.0.0.1/-/1ms GET /socket.io/?EIO=3&transport=polling&t=MpIEhPI] [ 'socketTest' ]
+2019-08-27 16:39:59,475 INFO 896 [-/127.0.0.1/-/1ms GET /socket.io/?EIO=3&transport=polling&t=MpIEr7a] [ 'socketTest' ]
+2019-08-27 16:40:50,022 INFO 896 [-/127.0.0.1/-/0ms GET /socket.io/?EIO=3&transport=polling&t=MpIEr7a] [ 'socketTest' ]
+2019-08-27 16:40:51,514 INFO 896 [-/127.0.0.1/-/0ms GET /socket.io/?EIO=3&transport=polling&t=MpIF1yk] [ 'socketTest' ]
+2019-08-27 16:44:55,248 INFO 7312 [-/127.0.0.1/-/1ms GET /socket.io/?EIO=3&transport=polling&t=MpIFzSg] [ 'socketTest' ]
+2019-08-27 17:39:10,492 WARN 18752 [-/127.0.0.1/-/34ms POST /login] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-27 17:39:10,494 WARN 18752 [-/127.0.0.1/-/35ms POST /login] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (F:\egg-socket-io\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:163:19)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (F:\egg-socket-io\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 18752
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 17:39:12,304 WARN 18752 [-/127.0.0.1/-/0ms POST /login] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-27 17:39:12,306 WARN 18752 [-/127.0.0.1/-/2ms POST /login] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (F:\egg-socket-io\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:163:19)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (F:\egg-socket-io\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 18752
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 17:39:13,135 WARN 18752 [-/127.0.0.1/-/0ms POST /login] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-27 17:39:13,136 WARN 18752 [-/127.0.0.1/-/1ms POST /login] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (F:\egg-socket-io\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:163:19)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (F:\egg-socket-io\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 18752
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 17:39:48,710 WARN 14488 [-/127.0.0.1/-/15ms POST /login] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-27 17:39:48,713 WARN 14488 [-/127.0.0.1/-/17ms POST /login] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (F:\egg-socket-io\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:163:19)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (F:\egg-socket-io\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 14488
+hostname: DESKTOP-8OD7MNT
+
+2019-08-27 17:40:01,351 WARN 14488 [-/127.0.0.1/-/0ms POST /login] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-27 17:40:01,351 WARN 14488 [-/127.0.0.1/-/1ms POST /login] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (F:\egg-socket-io\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (F:\egg-socket-io\egg-example\node_modules\egg-security\app\extend\context.js:163:19)
+    at csrf (F:\egg-socket-io\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\egg-socket-io\egg-example\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\egg-socket-io\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (F:\egg-socket-io\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (F:\egg-socket-io\egg-example\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 14488
+hostname: DESKTOP-8OD7MNT
+
